@@ -206,4 +206,4 @@ Net Nanny is provided as a full free version with all features and updates inclu
 Take control of your family's online experience today! Download Net Nanny free and ensure a safer internet for your children.
 
 ---
-**Last updated:** 2026-11-03 10:36:05 UTC
+**Last updated:** 2026-11-03 18:17:05 UTC
